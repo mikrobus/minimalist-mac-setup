@@ -1,0 +1,1 @@
+# minimalist-mac-setup
